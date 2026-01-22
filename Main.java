@@ -9,9 +9,9 @@ public class Main {
         int number = scanner.nextInt();
 
         if (isEven(number)) {
-            System.out.println(number + " is Even");
+            System.out.println(number + " is Even Number");
         } else {
-            System.out.println(number + " is Odd");
+            System.out.println(number + " is Odd Number");
         }
 
         scanner.close();
